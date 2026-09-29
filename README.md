@@ -15,6 +15,7 @@ A simple Library Management System built using Python and SQLite.
 - Issue books
 - Return books
 - View currently issued books
+  https://chatgpt.com/s/t_6abb933195f4819192c92a51ce52c9a6
 
 ## Technologies
 
